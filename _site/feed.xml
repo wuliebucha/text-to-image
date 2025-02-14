@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-02-14T19:32:22+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">项目简介</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2024/12/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-12-17T14:02:48+08:00</published><updated>2024-12-17T14:02:48+08:00</updated><id>http://localhost:4000/jekyll/update/2024/12/17/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/12/17/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">文生图项目</title><link href="http://localhost:4000/projects/vincent-project/" rel="alternate" type="text/html" title="文生图项目" /><published>2024-12-17T00:00:00+08:00</published><updated>2024-12-17T00:00:00+08:00</updated><id>http://localhost:4000/projects/360project</id><content type="html" xml:base="http://localhost:4000/projects/vincent-project/"><![CDATA[<h2 id="一inpaint--outpaint">一、inpaint &amp; outpaint</h2>
+<h3 id="1验证集">1.验证集</h3>
+<p><img src="/assets/images/inpaint_outpaint/000257.jpg" alt="Image 1" />
+<img src="/assets/images/inpaint_outpaint/000247.jpg" alt="Image 1" />
+<img src="/assets/images/inpaint_outpaint/002944.jpg" alt="Image 1" />
+<img src="/assets/images/inpaint_outpaint/002268.jpg" alt="Image 1" />
+<img src="/assets/images/inpaint_outpaint/002828.jpg" alt="Image 1" />
+<img src="/assets/images/inpaint_outpaint/003268.jpg" alt="Image 1" />
+<img src="/assets/images/inpaint_outpaint/000026.jpg" alt="Image 1" />
+<img src="/assets/images/inpaint_outpaint/002614.jpg" alt="Image 1" /></p>
+
+<h3 id="2智绘重绘">2.智绘重绘</h3>
+<p><img src="/assets/images/real_display/image7.png" alt="Image 1" />
+<img src="/assets/images/real_display/image11.png" alt="Image 1" />
+<img src="/assets/images/real_display/image13.png" alt="Image 1" />
+<img src="/assets/images/real_display/image14.png" alt="Image 1" />
+<img src="/assets/images/real_display/inpaint_20241217-093955_concat.png" alt="Image 1" />
+<img src="/assets/images/real_display/inpaint_20241219-064806_concat.png" alt="Image 1" /></p>
+
+<h3 id="3广告图生成背景">3.广告图生成背景</h3>
+<p><img src="/assets/images/ad_background/target.png" alt="Image 1" />
+<img src="/assets/images/ad_background/template2demo_00733.png" alt="Image 1" />
+<img src="/assets/images/ad_background/template1demo_01297.png" alt="Image 1" />
+<img src="/assets/images/ad_background/template1demo_01140.png" alt="Image 1" /></p>
+
+<h3 id="4腹肌模型">4.腹肌模型</h3>
+<p><img src="/assets/images/abs/man_3.png" alt="Image 1" /> 
+<img src="/assets/images/abs/man_5.png" alt="Image 1" /> 
+<img src="/assets/images/abs/test_boy_9.png" alt="Image 1" /> 
+<img src="/assets/images/abs/test_girl_1.jpg" alt="Image 1" /> 
+<img src="/assets/images/abs/woman_11.png" alt="Image 1" /></p>
+
+<h2 id="二可控布局">二、可控布局</h2>
+<p><a href="https://360cvgroup.github.io/HiCo_T2I/" title="HiCo主页">HiCo项目主页</a></p>
+<h4 id="布局能力">布局能力</h4>
+<p><img src="/assets/images/layout/layout.png" alt="Image 1" /></p>
+<h4 id="不同的基础模型">不同的基础模型</h4>
+<p><img src="/assets/images/layout/base_model.png" alt="Image 1" /></p>
+<h4 id="可加lora">可加lora</h4>
+<p><img src="/assets/images/layout/lora.png" alt="Image 1" /></p>
+<h4 id="与其他方法比较">与其他方法比较</h4>
+<p><img src="/assets/images/layout/compare.png" alt="Image 1" /></p>
+
+<h1 id="定制化">定制化</h1>
+
+<p>基于单人的lora、多个lora合并和多概念定制化</p>
+
+<h2 id="一基于单人的lora">一、基于单人的lora</h2>
+<h3 id="基于配饰的生成">基于配饰的生成</h3>
+<p><img src="/assets/images/personalization/concat_attribute.png" alt="Image 1" /></p>
+<h3 id="基于场景的生成">基于场景的生成</h3>
+<p><img src="/assets/images/personalization/concat_scene.png" alt="Image 1" /></p>
+<h3 id="基于动作的生成">基于动作的生成</h3>
+<p><img src="/assets/images/personalization/concat_action.png" alt="Image 1" /></p>
+
+<h2 id="二两个lora合并">二、两个lora合并</h2>
+<h3 id="两个lora直接合并与我们方法的比较blindboxmoxinblindbox圣诞水晶球">两个lora直接合并与我们方法的比较（blindbox+moxin、blindbox+圣诞水晶球）</h3>
+<p><img src="/assets/images/model_merging/concat_blind_moxin_direct.png" alt="Image 1" /> 
+<img src="/assets/images/model_merging/concat_blind_moxin.png" alt="Image 1" />
+<img src="/assets/images/model_merging/concat_blind_shengdan_direct.png" alt="Image 1" /> 
+<img src="/assets/images/model_merging/concat_blind_shengdan.png" alt="Image 1" /></p>
+
+<h4 id="更多展示">更多展示</h4>
+<p><img src="/assets/images/model_merging/concat_shengdan_ral.png" alt="Image 1" />
+<img src="/assets/images/model_merging/concat_ral_moxin.png" alt="Image 1" />
+<img src="/assets/images/model_merging/concat_moxin_ral.png" alt="Image 1" /></p>
+<h4 id="loras-链接">loras 链接</h4>
+<p><a href="https://civitai.com/models/194533/christmas-crystal-ball?modelVersionId=263376" title="Google的搜索主页">圣诞水晶球</a>
+<a href="https://civitai.com/models/186716/smol-animals-lora-15sdxl?modelVersionId=241137" title="Google的搜索主页">3D animals</a>
+<a href="https://civitai.com/models/12597/moxin" title="Google的搜索主页">moxin</a>
+<a href="https://civitai.com/models/25995?modelVersionId=48150" title="Google的搜索主页">blindbox</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[一、inpaint &amp; outpaint 1.验证集]]></summary></entry></feed>
