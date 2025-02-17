@@ -22,7 +22,7 @@ title: 项目简介
 email: "wuliebucha@qq.com" 
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/text-to-image" # the subpath of your site, e.g. /blog
-项目展示
+#项目展示
 url: "https://wuliebucha.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  wuliebucha
